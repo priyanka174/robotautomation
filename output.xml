@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot generator="Robot 3.2.2 (Python 3.8.1 on win32)" generated="20201123 15:17:53.284" rpa="false">
+<suite id="s1" name="Testcases" source="C:\Users\User\PycharmProjects\robot automation\Testcases">
+<suite id="s1-s1" name="TC 001 S C B.001" source="C:\Users\User\PycharmProjects\robot automation\Testcases\TC_001_S_C_B.001.robot">
+<test id="s1-s1-t1" name="Robot first tc">
+<kw name="Start Browser and Maximize" library="Resources1">
+<kw name="Open Browser" library="SeleniumLibrary">
+<doc>Opens a new browser instance to the optional ``url``.</doc>
+<arguments>
+<arg>${Url}</arg>
+<arg>${Browser}</arg>
+</arguments>
+<msg timestamp="20201123 15:17:53.675" level="INFO">Opening browser 'Chrome' to base url 'http://www.thetestingworld.com/testings'.</msg>
+<status status="PASS" starttime="20201123 15:17:53.675" endtime="20201123 15:18:07.023"></status>
+</kw>
+<kw name="Maximize Browser Window" library="SeleniumLibrary">
+<doc>Maximizes current browser window.</doc>
+<status status="PASS" starttime="20201123 15:18:07.023" endtime="20201123 15:18:09.204"></status>
+</kw>
+<status status="PASS" starttime="20201123 15:17:53.675" endtime="20201123 15:18:09.204"></status>
+</kw>
+<kw name="Input Text" library="SeleniumLibrary">
+<doc>Types the given ``text`` into the text field identified by ``locator``.</doc>
+<arguments>
+<arg>name:fld_username</arg>
+<arg>priya</arg>
+</arguments>
+<msg timestamp="20201123 15:18:09.204" level="INFO">Typing text 'priya' into text field 'name:fld_username'.</msg>
+<status status="PASS" starttime="20201123 15:18:09.204" endtime="20201123 15:18:09.713"></status>
+</kw>
+<status status="PASS" starttime="20201123 15:17:53.675" endtime="20201123 15:18:09.713" critical="yes"></status>
+</test>
+<status status="PASS" starttime="20201123 15:17:53.331" endtime="20201123 15:18:09.721"></status>
+</suite>
+<suite id="s1-s2" name="TC 002 S C B" source="C:\Users\User\PycharmProjects\robot automation\Testcases\TC_002_S_C_B.robot">
+<test id="s1-s2-t1" name="Robot first tc">
+<kw name="Start Browser and Maximize" library="Resources1">
+<kw name="Open Browser" library="SeleniumLibrary">
+<doc>Opens a new browser instance to the optional ``url``.</doc>
+<arguments>
+<arg>${Url}</arg>
+<arg>${Browser}</arg>
+</arguments>
+<msg timestamp="20201123 15:18:09.737" level="INFO">Opening browser 'Chrome' to base url 'http://www.thetestingworld.com/testings'.</msg>
+<status status="PASS" starttime="20201123 15:18:09.737" endtime="20201123 15:18:18.849"></status>
+</kw>
+<kw name="Maximize Browser Window" library="SeleniumLibrary">
+<doc>Maximizes current browser window.</doc>
+<status status="PASS" starttime="20201123 15:18:18.849" endtime="20201123 15:18:21.087"></status>
+</kw>
+<status status="PASS" starttime="20201123 15:18:09.737" endtime="20201123 15:18:21.087"></status>
+</kw>
+<kw name="Input Text" library="SeleniumLibrary">
+<doc>Types the given ``text`` into the text field identified by ``locator``.</doc>
+<arguments>
+<arg>name:fld_email</arg>
+<arg>priya@gmail.com</arg>
+</arguments>
+<msg timestamp="20201123 15:18:21.087" level="INFO">Typing text 'priya@gmail.com' into text field 'name:fld_email'.</msg>
+<status status="PASS" starttime="20201123 15:18:21.087" endtime="20201123 15:18:21.467"></status>
+</kw>
+<status status="PASS" starttime="20201123 15:18:09.737" endtime="20201123 15:18:21.475" critical="yes"></status>
+</test>
+<status status="PASS" starttime="20201123 15:18:09.729" endtime="20201123 15:18:21.475"></status>
+</suite>
+<status status="PASS" starttime="20201123 15:17:53.284" endtime="20201123 15:18:21.491"></status>
+</suite>
+<statistics>
+<total>
+<stat pass="2" fail="0">Critical Tests</stat>
+<stat pass="2" fail="0">All Tests</stat>
+</total>
+<tag>
+</tag>
+<suite>
+<stat pass="2" fail="0" id="s1" name="Testcases">Testcases</stat>
+<stat pass="1" fail="0" id="s1-s1" name="TC 001 S C B.001">Testcases.TC 001 S C B.001</stat>
+<stat pass="1" fail="0" id="s1-s2" name="TC 002 S C B">Testcases.TC 002 S C B</stat>
+</suite>
+</statistics>
+<errors>
+</errors>
+</robot>

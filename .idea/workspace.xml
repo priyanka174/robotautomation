@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bcb6867d-a0e9-4f31-ae78-6b05334c9f4a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1kPwrhOmQX4N2ignTXMYv0eG1sN" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\User\PycharmProjects\robot automation\Testcases\Login Testcae" />
+      <recent name="C:\Users\User\PycharmProjects\robot automation\Testcases" />
+      <recent name="C:\Users\User\PycharmProjects\robot automation" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bcb6867d-a0e9-4f31-ae78-6b05334c9f4a" name="Default Changelist" comment="" />
+      <created>1605615734834</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605615734834</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="444" y="167" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1605872758075">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="444" y="167" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1605872758075" />
+    <state x="460" y="118" key="FileChooserDialogImpl" timestamp="1605618536150">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="460" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1605618536150" />
+    <state x="182" y="6" key="SettingsEditor" timestamp="1605618682114">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="182" y="6" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1605618682114" />
+  </component>
+</project>
